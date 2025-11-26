@@ -1,185 +1,149 @@
 # iphone17-sarja-2025-opas
 iPhone 17 -sarjan (2025) tärkeimmät käyttäjäkokemukset, ongelmat ja suositukset – yhdessä README-sivussa. Mukana suojasuositukset ja panssarilasit.
-<!DOCTYPE html>
-<html lang="fi">
-<head>
-  <meta charset="UTF-8">
-  <title>iPhone 17 -sarja (2025) – Kaikki tärkeä yhdellä sivulla</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="iPhone 17 -sarjan (2025) tärkeimmät käyttäjäkokemukset, ongelmat ja suositukset – yhdessä sivussa. Mukana suojasuositukset ja panssarilasit.">
-</head>
-<body>
-  <main>
-    <h1>iPhone 17 -sarja (2025) – Kaikki tärkeä yhdellä sivulla</h1>
+Uusi iPhone 17 -sarja on herättänyt paljon keskustelua. Apple toi neljä mallia:
 
-    <p>
-      Uusi iPhone 17 -sarja on herättänyt paljon keskustelua. Apple toi neljä mallia:
-    </p>
+iPhone 17
 
-    <ul>
-      <li>iPhone 17</li>
-      <li>iPhone 17 Air</li>
-      <li>iPhone 17 Pro</li>
-      <li>iPhone 17 Pro Max</li>
-    </ul>
+iPhone 17 Air
 
-    <p>
-      Tällä sivulla käydään läpi, mitä mallien omistajat ovat oikeasti sanoneet:
-      missä ne ovat hyviä, mitä ongelmia käyttäjät ovat raportoineet – ja miten
-      näyttö kannattaa suojata, jotta välttää kalliit korjaukset.
-    </p>
+iPhone 17 Pro
 
-    <hr>
+iPhone 17 Pro Max
 
-    <h2>iPhone 17 – perusmalli</h2>
+Tällä sivulla käydään läpi, mitä mallien omistajat ovat oikeasti sanoneet: missä ne ovat hyviä, mitä ongelmia käyttäjät ovat raportoineet – ja miten näyttö kannattaa suojata, jotta välttää kalliit korjaukset.
 
-    <p>Perusmalli on varmin valinta tavalliselle käyttäjälle.</p>
+iPhone 17 – perusmalli
 
-    <h3>Hyvää</h3>
-    <ul>
-      <li>erinomainen akunkesto</li>
-      <li>uusi A18-siru toimii sulavasti</li>
-      <li>parempi kirkkaus kuin iPhone 15/16 -malleissa</li>
-      <li>kevyt ja peruskestävä rakenne</li>
-    </ul>
+Perusmalli on varmin valinta tavalliselle käyttäjälle.
 
-    <h3>Huonoa / mitä käyttäjät raportoivat</h3>
-    <ul>
-      <li>laitteen takaosa naarmuuntuu herkästi ilman suojakuorta</li>
-      <li>kosteissa käsissä näyttö voi reagoida hitaasti ilman panssarilasia</li>
-      <li>kamerakehys ottaa kolhuja taskussa avainten kanssa</li>
-    </ul>
+Hyvää:
 
-    <hr>
+erinomainen akunkesto
 
-    <h2>iPhone 17 Air – markkinoiden ohuin iPhone</h2>
+uusi A18-siru toimii sulavasti
 
-    <p>Tämä malli jakaa mielipiteitä ehkä eniten koko sarjassa.</p>
+parempi kirkkaus kuin iPhone 15/16 -malleissa
 
-    <h3>Hyvää</h3>
-    <ul>
-      <li>uskomattoman ohut ja kevyt</li>
-      <li>taskussa lähes huomaamaton</li>
-      <li>sama suorituskyky kuin iPhone 17 -mallissa</li>
-    </ul>
+kevyt ja peruskestävä rakenne
 
-    <h3>Mitä käyttäjät ovat arvostelleet</h3>
-    <ul>
-      <li>Air on niin ohut, että monet eivät uskalla käyttää sitä ilman kuorta</li>
-      <li>taipumisherkkyys muistuttaa vanhoja iPhone 6/7 -malleja</li>
-      <li>takalasi koetaan hauraammaksi kuin paksummissa malleissa</li>
-      <li>sormenjälkiä ja pieniä naarmuja kertyy pintaan herkemmin</li>
-    </ul>
+Huonoa / käyttäjien raportit:
 
-    <p>
-      Tämä on se malli, johon panssarilasi on käytännössä pakollinen, koska
-      ohut runko ei suojaa näyttöä yhtä hyvin kuin paksummissa malleissa.
-    </p>
+takaosa naarmuuntuu helposti ilman suojakuorta
 
-    <hr>
+kosteissa käsissä näyttö reagoi hitaammin ilman panssarilasia
 
-    <h2>iPhone 17 Pro – suosituin malli</h2>
+kamerakehys ottaa kolhuja taskussa avainten kanssa
 
-    <p>Pro-mallit ovat tämän sarjan myydyimpiä laitteita.</p>
+iPhone 17 Air – markkinoiden ohuin iPhone
 
-    <h3>Hyvää</h3>
-    <ul>
-      <li>erinomainen kamera ja videokuva</li>
-      <li>terävä 120 Hz ProMotion -näyttö</li>
-      <li>titaanirunko tuntuu jämäkältä kädessä</li>
-      <li>akun kesto parempi kuin monella odotuksella</li>
-    </ul>
+Mallista on tullut paljon palautetta, hyvää ja huonoa.
 
-    <h3>Mitä käyttäjät ovat kritisoineet</h3>
-    <ul>
-      <li>takaosan lasi rikkoontuu helposti kulmapudotuksissa</li>
-      <li>kamerakehys naarmuuntuu nopeasti ilman suojaa</li>
-      <li>näytön vaihto ilman suojaa on todella kallista</li>
-      <li>titaani voi naarmuuntua kyljistä avainten tai hiekkaisen taskun kanssa</li>
-    </ul>
+Hyvää:
 
-    <hr>
+erittäin ohut ja kevyt
 
-    <h2>iPhone 17 Pro Max – isoin, mutta myös riskialttein</h2>
+taskussa lähes huomaamaton
 
-    <h3>Hyvää</h3>
-    <ul>
-      <li>paras kamera koko Apple-ekosysteemissä</li>
-      <li>suurin akkukapasiteetti 17-sarjassa</li>
-      <li>iso ja upea näyttö pelaamiseen ja editointiin</li>
-    </ul>
+sama teho kuin iPhone 17 -mallissa
 
-    <h3>Ongelmia / käyttäjien raportteja</h3>
-    <ul>
-      <li>ison näytön takia pudotuksessa riski on suurin koko sarjassa</li>
-      <li>paino tekee puhelimesta liukkaamman ilman kuorta</li>
-      <li>takalasi särkyy reunoista helpommin kuin pienemmässä Pro-mallissa</li>
-      <li>näytön korjaus on kallis: useissa maissa satoja euroja</li>
-    </ul>
+Mistä ihmiset valittavat:
 
-    <hr>
+Air on niin ohut, että moni ei uskalla käyttää ilman kuorta
 
-    <h2>Miksi panssarilasi on tärkeä iPhone 17 -sarjalle?</h2>
+taipumisherkkyys (sama ilmiö kuin iPhone 6/7 -malleissa)
 
-    <p>
-      Käyttäjäkokemusten perusteella yhteinen nimittäjä on selvä:
-      mitä suurempi ja ohuempi laite, sitä tärkeämpi on kunnollinen näytönsuoja.
-    </p>
+takalasi on herkempi rikkoutumaan
 
-    <ul>
-      <li>isot näytöt = suurempi rikkoutumisriski pudotuksissa</li>
-      <li>laitteiden takaosat naarmuuntuvat helposti laukussa tai taskussa</li>
-      <li>Air-malli on haavoittuvampi rungon ohuuden takia</li>
-      <li>kamerakehykset ottavat osumaa pienistäkin kolhuista</li>
-      <li>Apple-huollon korjaukset ovat kalliimpia kuin edellisissä sukupolvissa</li>
-    </ul>
+pinta naarmuuntuu ja likaantuu tavallista helpommin
 
-    <p>
-      Siksi panssarilasin lisääminen heti alussa on käytännössä halvin tapa
-      välttää useiden satojen eurojen korjauslasku.
-    </p>
+→ Tämä on malli, jossa panssarilasi on käytännössä pakollinen.
 
-    <hr>
+iPhone 17 Pro – suosituin malli
 
-    <h2>Laadukkaat panssarilasit iPhone 17 -sarjalle</h2>
+Pro-mallit ovat myydyimpiä, ja syystä.
 
-    <p>
-      Jos haluat suojata iPhone 17 -sarjan näytön mahdollisimman hyvin,
-      löydät laadukkaat panssarilasit kaikille malleille täältä:
-    </p>
+Hyvää:
 
-    <p>
-      <a href="https://mobiilikauppa.com/collections/panssarilasit">
-        https://mobiilikauppa.com/collections/panssarilasit
-      </a>
-    </p>
+luokkansa paras kamera
 
-    <p>
-      Valikoimasta löytyy panssarilasit:
-    </p>
-    <ul>
-      <li>iPhone 17</li>
-      <li>iPhone 17 Air</li>
-      <li>iPhone 17 Pro</li>
-      <li>iPhone 17 Pro Max</li>
-    </ul>
+120 Hz ProMotion -näyttö
 
-    <p>
-      Kun suojaat näytön heti, laite kestää arjen kolhut paremmin ja
-      jälleenmyyntiarvo säilyy korkeampana.
-    </p>
+titaanirunko tuntuu jämäkältä
 
-    <hr>
+akkukesto parempi kuin odotettiin
 
-    <h2>Sisällys</h2>
-    <ul>
-      <li>iPhone 17 – yleiskuva</li>
-      <li>iPhone 17 Air – riskit &amp; ohuuden ongelmat</li>
-      <li>iPhone 17 Pro – vahvuudet &amp; haavoittuvuudet</li>
-      <li>iPhone 17 Pro Max – suurin riski rikkoutua</li>
-      <li>Miksi panssarilasi kannattaa?</li>
-      <li>Missä ostaa laadukas panssarilasi</li>
-    </ul>
-  </main>
-</body>
-</html>
+Kritiikkiä käyttäjiltä:
+
+takaosan lasi hajoaa helposti kulmapudotuksessa
+
+kamerakehys naarmuuntuu nopeasti
+
+näytön korjaus on kallis
+
+titaaniin tulee helposti pikkuviiruja
+
+iPhone 17 Pro Max – isoin, mutta myös riskialttein
+
+Hyvää:
+
+paras kamera koko Apple-valikoimassa
+
+suurin akkukapasiteetti
+
+iso näyttö sopii pelaamiseen ja editointiin
+
+Huonot puolet ja ongelmat:
+
+ison näytön vuoksi se rikkoutuu pudotuksissa herkimmin
+
+puhelin on painava ja liukas ilman kuorta
+
+takalasi voi haljeta reunoista helpommin
+
+näytön korjaus voi maksaa 250–500 €
+
+Miksi panssarilasi on välttämätön iPhone 17 -sarjalle?
+
+Kaikissa neljässä mallissa on sama trendi:
+
+isot näytöt = suurempi rikkoutumisriski
+
+takalasi naarmuuntuu helposti
+
+Air on haavoittuvin ohuen rungon vuoksi
+
+kamerakehykset osuvat helposti pintoihin
+
+korjauskustannukset ovat korkeammat kuin ennen
+
+→ Panssarilasi on halvin vakuutus uuden iPhonen näytölle.
+
+Laadukkaat panssarilasit iPhone 17 -sarjalle
+
+Valmiit, yhteensopivat panssarilasit löydät täältä:
+
+👉 https://mobiilikauppa.com/collections/panssarilasit
+
+Saatavilla kaikille malleille:
+
+iPhone 17
+
+iPhone 17 Air
+
+iPhone 17 Pro
+
+iPhone 17 Pro Max
+
+Sisällys
+
+iPhone 17 – yleiskuva
+
+iPhone 17 Air – riskit ja ohuuden ongelmat
+
+iPhone 17 Pro – vahvuudet ja haavoittuvuudet
+
+iPhone 17 Pro Max – suurin riski rikkoutua
+
+Miksi panssarilasi kannattaa?
+
+Mistä ostaa laadukas panssarilasi
